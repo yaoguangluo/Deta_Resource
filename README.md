@@ -13,4 +13,8 @@ software coding theory 准备写本1500页的书。
 ##### 价值：比如在互联网项目中做rest call 线程任务处理
 ##### 价值：比如在数据库软件中做增删改查的控制引擎。等等
 
+# 感谢
+最近看了下temsoflow的https://github.com/tensorflow/tensorflow/blob/master/tensorflow/java/src/main/java/org/tensorflow/op/core/Gradients.java
+文件，vpcs现在要做的一个任务是将泛型的横向扩展进行拆分解决leakage exception
+
 
