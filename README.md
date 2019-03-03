@@ -1,5 +1,5 @@
 # Deta 软件开发有限公司 软件开源项目计划 2019
-https://github.com/yaoguangluo/VPCS_Theroy/blob/master/AOPM%20Deta%20%E5%BC%80%E6%BA%90%E8%AE%A1%E5%88%92.png
+![实例](https://github.com/yaoguangluo/VPCS_Theroy/blob/master/AOPM%20Deta%20%E5%BC%80%E6%BA%90%E8%AE%A1%E5%88%92.png)
 
 ##### 价值：解决互联网人工智能系统应用需求。
 ##### 价值：本论文一种超小型，原生，将执行和控制分开，将数据和任务分开的类似酒店管理的编程思想
