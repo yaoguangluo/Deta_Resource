@@ -1,10 +1,7 @@
-# Outline: 
-due to the development of the software acquisition and definition in what we use the code theory always in messy and unforeseeable status. A new method of the coding style like VPCS that will show in this topic paper, feel free to resonate with my imagination of the portrait—VPCS(Vision, Process, Controller, Sets) theory, fun yet? Not only this paper will gazer a big point how we show the constructions of the VPCS, you guys also sure to get lots of idyllic landscapes of the coding sections. While you got lots of the illness codes at the so messy fungus projects, I guess at this paper out where you are finding anxiously. Let’s catch more opportunity about how does the VPCS working, executing and scheduling in our software project and make the software fast, fast and safe! lets go, So the key words as below:
+# Deta 软件开发有限公司 软件开源项目计划 2019
+https://github.com/yaoguangluo/VPCS_Theroy/blob/master/AOPM%20Deta%20%E5%BC%80%E6%BA%90%E8%AE%A1%E5%88%92.png
 
-# VPCS_Theroy
-https://github.com/yaoguangluo/VPCS_Theroy/blob/master/VPCS-Method_V1.1.pdf
-software coding theory 准备写本1500页的书。
-
+##### 价值：解决互联网人工智能系统应用需求。
 ##### 价值：本论文一种超小型，原生，将执行和控制分开，将数据和任务分开的类似酒店管理的编程思想
 ##### 价值：解决了怎么在一个超微型的计算机设备中执行安全可控高并发的互联网后端请求。
 ##### 价值：并附带了各种应用实例。
