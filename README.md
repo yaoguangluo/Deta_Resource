@@ -1,4 +1,4 @@
-# Deta 软件开发有限公司 软件开源项目计划 2019
+# Deta 软件开发有限公司 软件开源项目计划落实情况 2018~2019
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/Deta-1-year-old.png)
 
 ##### 价值：解决互联网人工智能系统应用需求。
