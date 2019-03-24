@@ -9,6 +9,11 @@
 ##### 价值：比如在桌面上应用做软件线程业务逻辑
 ##### 价值：比如在互联网项目中做rest call 线程任务处理
 ##### 价值：比如在数据库软件中做增删改查的控制引擎。等等
+##### 价值：商业投资重心分析。
+##### 价值：网络人工智能自主进化分析。
+##### 价值：学习能力和文学辅助教育。
+##### 价值：商业，刑侦等领域的文本读心术。
+##### 价值：海量数据分析。
 
 # 感谢
 最近看了下temsoflow的https://github.com/tensorflow/tensorflow/blob/master/tensorflow/java/src/main/java/org/tensorflow/op/core/Gradients.java
