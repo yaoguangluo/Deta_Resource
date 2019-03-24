@@ -1,5 +1,5 @@
 # Deta 软件开发有限公司 软件开源项目计划落实情况 2018~2019
-![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/20190321.png)
+![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/deta20190324.png)
 
 ##### 价值：解决互联网人工智能系统应用需求。
 ##### 价值：本论文一种超小型，原生，将执行和控制分开，将数据和任务分开的类似酒店管理的编程思想
@@ -13,5 +13,7 @@
 # 感谢
 最近看了下temsoflow的https://github.com/tensorflow/tensorflow/blob/master/tensorflow/java/src/main/java/org/tensorflow/op/core/Gradients.java
 文件，vpcs现在要做的一个任务是将泛型的横向扩展进行拆分解决leakage exception
+
+感谢 Nature, Linkedin, 加拿大蒙特利大学, 牛津大学, 加州伯克利大学等人工智能科研组.
 
 
