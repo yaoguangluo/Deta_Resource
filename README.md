@@ -16,6 +16,11 @@
 ##### 价值：海量数据分析。
 ##### 价值：德塔网络机器人第一代系统.
 
+Demo @ 
+##### http://tinos.qicp.vip
+##### https://ip21761404.imwork.net
+
+
 # 感谢
 最近看了下temsoflow的https://github.com/tensorflow/tensorflow/blob/master/tensorflow/java/src/main/java/org/tensorflow/op/core/Gradients.java
 文件，vpcs现在要做的一个任务是将泛型的横向扩展进行拆分解决leakage exception
