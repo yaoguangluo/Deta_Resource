@@ -1,6 +1,7 @@
 # Deta 软件开发有限公司 软件开源项目计划落实情况 2018~2019
 
-# 类人数据生命的DNA计算思想 作为一个 罗瑶光先生 用来申请 诺贝尔奖和图灵奖的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
+# 类人数据生命的DNA计算思想 作为一个 罗瑶光先生 用来申请 诺贝尔奖和图灵奖的 作品, 自从 类人 Tin 先生 诞生(Mr. Tin God was created. 2019-04-12 - 5:05)起, 一直在进化中.
+
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg)
 
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190404.jpg)
