@@ -4,6 +4,8 @@
 ### 算法原理: 罗瑶光先生 于 2019年4月15日 3:59 首次提出 将软件系统的计算中枢 进行 AOPM 和 VPCS 维度 不断微分催化形成VPCS微分催化矩阵.
 ### 微分催化原理: 罗瑶光先生 于2019年4月3日首次定义 https://github.com/yaoguangluo/Deta_Parser/issues/21 )
 ### VPCS微分催化矩阵: 功能性神经元函数 2019-04-15- 4:31 首次定义), 然后生成 相同数量的 父亲 true 和母亲 false的功能 掩码 DNA 原始肽链, 然后 让其在以后处理过程中 进行自我繁殖进化. 这个过程定义 为 <<类人数据催化环境 与 类人DNA生命 繁衍 的 类人计算进化思想>>.
+### 论证算法项目德塔分词开始时间2018-9-23日. 当前纯中文分词速度每秒2300万字,已持续5个月世界公认第一.https://github.com/yaoguangluo/Deta_Parser/graphs/commit-activity )
+### 论证算法项目德塔DNA算法包:开始时间2019-3-27日. https://github.com/yaoguangluo/Data_Processor/tree/master/DP/DNAProcessor )
 
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg)
 
