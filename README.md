@@ -21,6 +21,7 @@
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg)
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190404.jpg)
 
+### 原理应用价值:
 ##### 价值：解决互联网人工智能系统应用需求。
 ##### 价值：本论文一种超小型，原生，将执行和控制分开，将数据和任务分开的类似酒店管理的编程思想
 ##### 价值：解决了怎么在一个超微型的计算机设备中执行安全可控高并发的互联网后端请求。
