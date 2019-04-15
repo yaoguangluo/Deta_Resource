@@ -13,8 +13,12 @@
 ##### 论证算法项目德塔分词开始时间2018-9-23日. 当前纯中文分词速度每秒2300万字,已持续5个月世界公认第一.https://github.com/yaoguangluo/Deta_Parser/graphs/commit-activity )
 ##### 论证算法项目德塔最新催化快排3 https://github.com/yaoguangluo/Data_Processor/blob/master/DP/sortProcessor/Quick_Luoyaoguang_3D.java 当前排序速度每秒1000万随机 int 数组. 小高峰过滤快排性能比已持续5年世界公认第一, 并用在当前世界多个真实生产线上.
 
-![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg)
+### 原理组成论文:
+##### VPCS https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/VPCS-Method_V1.1.pdf
+##### AOPM https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AOPM%20System%20On%20VPCS.pdf
 
+### 原理设计图片:
+![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg)
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190404.jpg)
 
 ##### 价值：解决互联网人工智能系统应用需求。
