@@ -18,7 +18,9 @@
 ##### AOPM https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AOPM%20System%20On%20VPCS.pdf
 
 ### 原理设计图片:
-![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg) 2019-02-13
+2019年-2月-13日
+![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg) 
+
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190404.jpg)
 
 ### 原理应用价值:
