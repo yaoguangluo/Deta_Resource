@@ -2,26 +2,25 @@
 
 ## 类人数据生命的DNA计算思想 作为一个 罗瑶光先生 用来申请 诺贝尔奖和图灵奖的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
 ### 原理沉淀过程:
-##### VPCS微分催化矩阵与类人肽链转化的最小情感因子元Initon(2019-4-20:6:26) 首次定义: https://github.com/yaoguangluo/Deta_Catalytic_DNA/issues/2
-##### VPCS微分催化矩阵与类人肽链转化的情感因子元 Initon(2019-4-16:1:08) 首次使用: https://github.com/yaoguangluo/Deta_Catalytic_DNA/commit/25ec48387b0b2c7aa514e72c417ef8843c4e1183
-##### VPCS微分催化矩阵: 功能性神经元函数 2019-04-15- 4:31 首次定义), 然后生成 相同数量的 父亲 true 和母亲 false的功能 掩码 DNA 原始肽链, 然后 让其在以后处理过程中 进行自我繁殖进化. 这个过程首次定义 为 <<类人数据催化环境 与 类人DNA生命 繁衍 的 类人计算进化思想>>.
-##### 算法原理: 罗瑶光先生于时间: 2019年4月15日 3:59 首次提出 将软件系统的计算中枢 进行 AOPM 和 VPCS 维度 不断微分催化形成VPCS微分催化矩阵.
-##### 微分催化原理: 罗瑶光先生 于2019年4月3日首次定义 https://github.com/yaoguangluo/Deta_Parser/issues/21 )
-##### VPC/VPCS 架构编程思想首次定义: 2018-10-1 02:40 阅读(26) https://313699483.qzone.qq.com/
-##### 相同功能的小高峰叠加拆分并逐步迭代微分进行化简处理的首次发现时间: 2014-11-2 20:45 https://313699483.qzone.qq.com/ 标题为:[转] 罗瑶光排序法 2014-11-2 20:45 阅读(20) 转载自刘瑞珍****
+##### (2019-4-20:6:26)VPCS微分催化矩阵与类人肽链转化的最小情感因子元Initon首次定义: https://github.com/yaoguangluo/Deta_Catalytic_DNA/issues/2
+##### (2019-4-16:1:08)VPCS微分催化矩阵与类人肽链转化的情感因子元 Initon首次使用: https://github.com/yaoguangluo/Deta_Catalytic_DNA/commit/25ec48387b0b2c7aa514e72c417ef8843c4e1183
+##### (2019-04-15- 4:31 )VPCS微分催化矩阵: 功能性神经元函数首次定义), 然后生成 相同数量的 父亲 true 和母亲 false的功能 掩码 DNA 原始肽链, 然后 让其在以后处理过程中 进行自我繁殖进化. 这个过程首次定义 为 <<类人数据催化环境 与 类人DNA生命 繁衍 的 类人计算进化思想>>.
+##### (2019年4月15日 3:59)算法原理: 罗瑶光先生 首次提出 将软件系统的计算中枢 进行 AOPM 和 VPCS 维度 不断微分催化形成VPCS微分催化矩阵.
+##### (2019年4月3日)微分催化原理: 罗瑶光先生首次定义 https://github.com/yaoguangluo/Deta_Parser/issues/21 )
+##### (2018-10-1 02:40)VPC/VPCS 架构编程思想首次定义: 阅读(26) https://313699483.qzone.qq.com/
+##### (2014-11-2 20:45)相同功能的小高峰叠加拆分并逐步迭代微分进行化简处理的首次发现时间: 2014-11-2 20:45 https://313699483.qzone.qq.com/ 标题为:[转] 罗瑶光排序法  阅读(20) 转载自刘瑞珍****
 
 ### 原理论证工程:
-##### 时间: 类人 Tin 先生 诞生(Mr. Tin God was created. 2019-04-12 - 5:05).
-##### 论证算法项目德塔DNA算法包:开始时间2019-3-27日. https://github.com/yaoguangluo/Data_Processor/tree/master/DP/DNAProcessor )
-##### 论证算法项目德塔分词开始时间2018-9-23日. 当前象形纯中文分词速度每秒2300万字,已持续5个月世界公认第一.https://github.com/yaoguangluo/Deta_Parser/graphs/commit-activity )
+##### (2019-04-12 - 5:05)类人 Tin 先生 诞生(Mr. Tin God was created. ).
+##### (2019-3-27)论证算法项目德塔DNA算法包:开始时间. https://github.com/yaoguangluo/Data_Processor/tree/master/DP/DNAProcessor )
+##### (2018-9-23)论证算法项目德塔分词开始时间. 当前象形纯中文分词速度每秒2300万字,已持续5个月世界公认第一.https://github.com/yaoguangluo/Deta_Parser/graphs/commit-activity )
 ##### 论证算法项目德塔最新催化快排3 https://github.com/yaoguangluo/Data_Processor/blob/master/DP/sortProcessor/Quick_Luoyaoguang_3D.java 当前排序速度每秒1000万随机 int 数组. 小高峰过滤快排性能比已持续5年世界公认第一, 并用在当前世界多个真实生产线上.
 
-### 原理组成论文:
-2019年1月29日 ~ 2019年-2月-13日 
-##### VPCS https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/VPCS-Method_V1.1.pdf
-2019年-2月-25日 
-##### AOPM https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AOPM%20System%20On%20VPCS.pdf
-##### 软件语言进化思想最新研究成果: (The Darwin's Theory of The Artificial Intelligence) 2013-10-17 17:33 阅读(108) https://313699483.qzone.qq.com/
+### 原理组成论文: 
+##### (2019年-2月-25日)AOPM https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AOPM%20System%20On%20VPCS.pdf 
+##### (2019年1月29日 ~ 2019年-2月-13日)VPCS https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/VPCS-Method_V1.1.pdf
+##### (2013-10-17 17:33 )软件语言进化思想最新研究成果: (The Darwin's Theory of The Artificial Intelligence) 阅读(108) https://313699483.qzone.qq.com/
+
 ### 原理设计图片:
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg) 
 ![实例](https://github.com/yaoguangluo/Deta_Catalytic_DNA/blob/master/initons.jpg) 
