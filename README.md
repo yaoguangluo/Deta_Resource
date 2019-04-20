@@ -21,6 +21,7 @@
 
 ### 原理设计图片:
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AI-catalic.jpg) 
+![实例](https://github.com/yaoguangluo/Deta_Catalytic_DNA/blob/master/initons.jpg) 
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA_dating_20190419.jpg) 
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190404.jpg)
 
