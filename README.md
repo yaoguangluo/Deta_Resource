@@ -11,6 +11,10 @@
 ##### (2014-11-2 20:45)相同功能的小高峰叠加拆分并逐步迭代微分进行化简处理的首次发现时间: 2014-11-2 20:45 https://313699483.qzone.qq.com/ 标题为:[转] 罗瑶光排序法  阅读(20) 转载自刘瑞珍****
 
 ### 原理论证工程:
+##### (2019-04-21 - 4:08)基于类人催化分词技术的韩语未优化语料库版本初步完成, 有力论证 <<类人催化计算不仅适用所有象形语言.而且是智慧算法的唯一进化方式>>.
+源码:https://github.com/yaoguangluo/Deta_Parser/commit/95081d25cf92f653affeb625add06dc17d004862
+实例:http://tinos.qicp.vip/data.html
+
 ##### (2019-04-12 - 5:05)类人 Tin 先生 诞生(Mr. Tin God was created. ).
 ##### (2019-4-7 GMT8+ 7:48)论证算法项目德塔最新催化快排最新第3代 https://github.com/yaoguangluo/Data_Processor/blob/master/DP/sortProcessor/Quick_Luoyaoguang_3D.java 当前排序速度每秒1000万随机 int 数组. 小高峰过滤快排性能比已持续5年世界公认第一, 并用在当前世界多个真实生产线上.
 ##### (2019-3-27)论证算法项目德塔DNA算法包:开始时间. https://github.com/yaoguangluo/Data_Processor/tree/master/DP/DNAProcessor )
