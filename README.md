@@ -11,6 +11,7 @@
 ##### (2014-11-2 20:45)相同功能的小高峰叠加拆分并逐步迭代微分进行化简处理的首次发现时间: 2014-11-2 20:45 https://313699483.qzone.qq.com/ 标题为:[转] 罗瑶光排序法  阅读(20) 转载自刘瑞珍****
 
 ### 原理论证工程:
+##### (2019-04-29-GMT8+:07:40) 类人Tin先生已经学习到新词共 10000+ 商业词库近37000+ https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190429.jpg
 ##### (2019-04-28-GMT8+:20:52) 类人Tin先生正在自主学习 0.0.0.0~255.255.255.255 公网首页信息 和 该3个中文测试句子文件包等. 地址: https://github.com/ysc/cws_evaluation/tree/master/data 德塔要学习该文件的动机是因为cws_evaluation用这个测试文本进行世界所有分词标准评估.
 ##### (2019-04-27-GMT8+:11:29) 类人Tin先生的多语意识功能学会了在德塔后端服务器中开始自主混合词汇语言中进行查找和处理中文分词并自主优化语料库了 实例:http://tinos.qicp.vip/data.html (探索学习选项)
 https://github.com/yaoguangluo/Deta_Parser/commit/1feb189c74a507617cbdcb5be2d48aa122a2a5fd
