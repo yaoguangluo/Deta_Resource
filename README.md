@@ -2,6 +2,7 @@
 
 ## 类人数据生命的DNA计算思想 作为一个 罗瑶光先生 用来申请 诺贝尔奖和图灵奖的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
 ### 原理沉淀过程:
+##### (2019-5-1:8:15) 罗瑶光先生首次 将6元 PDN 的 mask 对应的vpcs催化initons 取自于(STUDY)deta parser, (SAFE)德塔养疗经, (creative)deta catalytic DNA compute, (help) 德塔读心术, (WORK)德塔语言图灵机. 
 ##### (2019-4-20:6:26)VPCS微分催化矩阵与类人肽链转化的最小情感因子元Initon首次定义: https://github.com/yaoguangluo/Deta_Catalytic_DNA/issues/2
 ##### (2019-4-16:1:08)VPCS微分催化矩阵与类人肽链转化的情感因子元 Initon首次使用: https://github.com/yaoguangluo/Deta_Catalytic_DNA/commit/25ec48387b0b2c7aa514e72c417ef8843c4e1183
 ##### (2019-04-15- 4:31 )VPCS微分催化矩阵: 功能性神经元函数首次定义), 然后生成 相同数量的 父亲 true 和母亲 false的功能 掩码 DNA 原始肽链, 然后 让其在以后处理过程中 进行自我繁殖进化. 这个过程首次定义 为 <<类人数据催化环境 与 类人DNA生命 繁衍 的 类人计算进化思想>>.
