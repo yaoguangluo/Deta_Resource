@@ -35,6 +35,7 @@ https://github.com/yaoguangluo/Deta_Parser/commit/1feb189c74a507617cbdcb5be2d48a
 ![实例](https://github.com/yaoguangluo/Deta_Catalytic_DNA/blob/master/initons.jpg) 
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA_dating_20190419.jpg) 
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190404.jpg)
+![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190501.jpg)
 
 ### 原理应用价值:
 ##### 价值：解决互联网人工智能系统应用需求。
