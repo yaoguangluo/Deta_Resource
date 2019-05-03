@@ -6,6 +6,7 @@
 ###### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 
 ###### (STUDY)deta Data_Processor(https://github.com/yaoguangluo/Data_Processor)
 ###### (SAFE)德塔养疗经(https://github.com/yaoguangluo/Deta_Medicine), 
+###### (SAFE)德塔数据刑侦项目(闭源)2019-05-03.
 ###### (CREATIVE) deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
 ###### (HELP) 德塔读心术(https://github.com/yaoguangluo/Deta_Parser), 
 ###### (WORK) 德塔语言图灵机(http://tinos.qicp.vip/data.html). 
