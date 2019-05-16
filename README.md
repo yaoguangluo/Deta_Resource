@@ -74,7 +74,7 @@ Demo @
 最近看了下temsoflow的https://github.com/tensorflow/tensorflow/blob/master/tensorflow/java/src/main/java/org/tensorflow/op/core/Gradients.java
 文件，vpcs现在要做的一个任务是将泛型的横向扩展进行拆分解决leakage exception
 
-感谢 Nature, Linkedin, 加拿大蒙特利大学, 牛津大学, 加州伯克利大学等人工智能科研组.
+感谢 作者父亲, Nature, Linkedin, 加拿大蒙特利大学, 牛津大学, 加州伯克利大学等人工智能科研组.
 感谢原因: 作者在2018年 5月人生最痛苦 的时候, 上面这些朋友, 给予了作者强大的精神动力和坚韧意志.
 
 
