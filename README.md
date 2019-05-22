@@ -10,6 +10,7 @@
 ###### (SAFE)德塔数据刑侦项目(闭源)2019-05-03.
 ###### (CREATIVE) deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
 ###### (HELP) 德塔读心术(https://github.com/yaoguangluo/Deta_Parser), 
+###### (HELP) deta catalytic DNA test(该项目将部署在gitee上), 
 ###### (WORK) 德塔语言图灵机(http://tinos.qicp.vip/data.html). 
 ###### (LOVE) deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
 
