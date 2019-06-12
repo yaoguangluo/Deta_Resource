@@ -5,7 +5,7 @@
 ### 原理沉淀过程:
 ##### (2019-5-1:8:15) 罗瑶光先生首次 将6元 PDN 的 mask 对应的vpcs催化initons (诺贝尔级) 取自于
 ###### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 
-###### (STUDY)deta Data_Processor(https://github.com/yaoguangluo/Data_Processor)
+###### (STUDY)deta Data_Processor(https://github.com/yaoguangluo/Data_Processor)  软著登字第3951366号
 ###### (SAFE)德塔养疗经(https://github.com/yaoguangluo/Deta_Medicine), 
 ###### (SAFE)德塔数据刑侦项目(闭源)2019-05-03.
 ###### (CREATIVE) deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
