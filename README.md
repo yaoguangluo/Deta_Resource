@@ -2,7 +2,7 @@
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190505.jpg) 
 ## 随着Apache等国际开源证书的衍生版越来越多， 德塔作者在这里官方和个人双重申明：带个人著作权的德塔非闭源作品，坚定不移的永久免费开放，只要在借鉴代码和思想处 进行标注 ：采用或使用或refer “罗瑶光" 或者 “浏阳德塔” 关键字即可。  2019061512：15
 ## 德塔开源作者名单表 : https://github.com/yaoguangluo/Deta_OSS_List
-## 类人数据生命的DNA计算思想 作为一个 罗瑶光先生 用来申请 诺贝尔奖和图灵奖的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
+## 类人数据生命的DNA计算思想 作为一个 罗瑶光先生的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
 ### 原理沉淀过程:
 ##### (2019-5-1:8:15) 罗瑶光先生首次 将6元 PDN 的 mask 对应的vpcs催化initons 取自于
 ###### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 
