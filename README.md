@@ -5,7 +5,7 @@
 ## 类人数据生命的DNA计算思想 作为一个 罗瑶光先生的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
 ### 原理沉淀过程:
 ##### (2019-5-1:8:15) 罗瑶光先生首次 将6元 PDN 的 mask 对应的vpcs催化initons 取自于
-###### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 
+###### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 软著登字第4240558号
 ###### (STUDY)deta Data_Processor(https://github.com/yaoguangluo/Data_Processor)  软著登字第3951366号
 ###### (SAFE)德塔养疗经(https://github.com/yaoguangluo/Deta_Medicine), 
 ###### (SAFE)德塔数据刑侦项目(闭源)2019-05-03.
