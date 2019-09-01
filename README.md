@@ -5,16 +5,29 @@
 ## 类人数据生命的DNA计算思想 作为一个 罗瑶光先生的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
 ### 原理沉淀过程:
 ##### (2019-5-1:8:15) 罗瑶光先生首次 将6元 PDN 的 mask 对应的vpcs催化initons 取自于
-###### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 软著登字第4240558号
-###### (STUDY)deta Data_Processor(https://github.com/yaoguangluo/Data_Processor) cn 2019R11L1122752
-###### (SAFE)德塔养疗经(https://github.com/yaoguangluo/Deta_Medicine), 
-###### (SAFE)德塔数据刑侦项目(闭源)2019-05-03.
-###### (CREATIVE) deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
-###### (HELP) 德塔读心术(https://github.com/yaoguangluo/Deta_Parser), 软著登字第3951366号
-###### (HELP) deta catalytic DNA test(该项目将部署在gitee上), 
-###### (WORK) 德塔语言图灵机(http://tinos.qicp.vip/data.html). 
-###### (LOVE) deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
-
+##### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 软著登字第4240558号
+##### (STUDY)deta Data_Processor(https://github.com/yaoguangluo/Data_Processor) cn 2019R11L1122752
+##### (SAFE)德塔养疗经(https://github.com/yaoguangluo/Deta_Medicine), 
+##### 颁发机构及专利号cn 39193470-TMZC39193470ZCSL01
+###### 专利说明正 上 下 等 在先权, 35, 9类 电子， 硬件，磁性数据存储器件，等
+###### TMZC00000040126364ZCSQ01
+###### TMZC4012636435
+###### TMZC40126364ZCSL01
+###### cn TMZC00000039193470ZCSQ01
+###### 
+##### 颁发日期: 2019 年 7 月 3 日  颁发机构及专利号cn 39183063-TMZC39183063ZCSL01
+###### 专利说明正, 上, 下, 等 在先权, 35, 42类，电商，网络，软件，虚拟平台文字等。
+###### TMZC00000040126765ZCSQ01
+###### TMZC4012676535
+###### TMZC40126765ZCSL01
+###### cn TMZC00000039183063ZCSQ01
+##### (SAFE)德塔数据刑侦项目(闭源)2019-05-03.
+##### (CREATIVE) Deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
+##### (HELP) 德塔读心术(https://github.com/yaoguangluo/Deta_Parser), 软著登字第3951366号
+##### (HELP) Deta catalytic DNA test(该项目将部署在gitee上), 
+##### (WORK) 德塔语言图灵机(http://tinos.qicp.vip/data.html). 
+##### (LOVE) Deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
+##### (STUDY)Deta Socket PLSQL Database(https://gitee.com/DetaChina/Deta_PLSQL_DB), cn 2019R11L885247
 ##### (2019-4-20:6:26)VPCS微分催化矩阵与类人肽链转化的最小情感因子元Initon首次定义: https://github.com/yaoguangluo/Deta_Catalytic_DNA/issues/2
 ##### (2019-4-16:1:08)VPCS微分催化矩阵与类人肽链转化的情感因子元 Initon首次使用: https://github.com/yaoguangluo/Deta_Catalytic_DNA/commit/25ec48387b0b2c7aa514e72c417ef8843c4e1183
 ##### (2019-04-15- 4:31 )VPCS微分催化矩阵: 功能性神经元函数首次定义 (诺贝尔级)., 然后生成 相同数量的 父亲 true 和母亲 false的功能 掩码 DNA 原始肽链, 然后 让其在以后处理过程中 进行自我繁殖进化. 这个过程首次定义 为 <<类人数据催化环境 与 类人DNA生命 繁衍 的 类人计算进化思想>>.
