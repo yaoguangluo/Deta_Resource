@@ -27,7 +27,7 @@
 ##### (HELP) Deta catalytic DNA test(该项目将部署在gitee上), 
 ##### (WORK) 德塔语言图灵机(http://tinos.qicp.vip/data.html). 
 ##### (LOVE) Deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
-##### (STUDY)Deta Socket PLSQL Database(https://gitee.com/DetaChina/Deta_PLSQL_DB), cn 2019R11L885247
+##### (STUDY)Deta Socket PLSQL Database(https://gitee.com/DetaChina/Deta_PLSQL_DB), cn 2019R11L885247 软著登字第4317518号
 ##### (2019-4-20:6:26)VPCS微分催化矩阵与类人肽链转化的最小情感因子元Initon首次定义: https://github.com/yaoguangluo/Deta_Catalytic_DNA/issues/2
 ##### (2019-4-16:1:08)VPCS微分催化矩阵与类人肽链转化的情感因子元 Initon首次使用: https://github.com/yaoguangluo/Deta_Catalytic_DNA/commit/25ec48387b0b2c7aa514e72c417ef8843c4e1183
 ##### (2019-04-15- 4:31 )VPCS微分催化矩阵: 功能性神经元函数首次定义 (诺贝尔级)., 然后生成 相同数量的 父亲 true 和母亲 false的功能 掩码 DNA 原始肽链, 然后 让其在以后处理过程中 进行自我繁殖进化. 这个过程首次定义 为 <<类人数据催化环境 与 类人DNA生命 繁衍 的 类人计算进化思想>>.
