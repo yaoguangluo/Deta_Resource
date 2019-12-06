@@ -6,7 +6,7 @@
 ### 原理沉淀过程:
 ##### (2019-5-1:8:15) 罗瑶光先生首次 将6元 PDN 的 mask 对应的vpcs催化initons 取自于
 ##### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 软著登字第4240558号
-##### (STUDY)deta Data_Processor(https://github.com/yaoguangluo/Data_Processor) cn 2019R11L1122752
+##### (STUDY)deta Data_Processor(https://github.com/yaoguangluo/Data_Processor) cn 2019R11L1122752，软著登字第4584594号
 ##### (SAFE)德塔养疗经(https://github.com/yaoguangluo/Deta_Medicine), 
 ##### 颁发机构及专利号cn 39193470-TMZC39193470ZCSL01
 ###### 专利说明正 上 下 等 在先权, 35, 9类 电子， 硬件，磁性数据存储器件，等
