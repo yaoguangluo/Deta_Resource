@@ -28,6 +28,21 @@
 ##### (WORK) 德塔语言图灵机(http://tinos.qicp.vip/data.html). 
 ##### (WORK) 德塔数据变量快速转换引擎 Deta Data Swap  cn:2019R11L1293422, 软著登字第4607950号
 ##### (LOVE) Deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
+##### 目前阶段已发布4大经典微分催化算法论证如下：
+
+###### 《微分催化计算作为类人DNA进化的唯一途径》 论证实例如下：
+###### 1 罗瑶光Deta快速分词POS流水阀门微分算法 实例论证：
+###### https://gitee.com/DetaChina/DetaParser/blob/master/wordSegment/org/tinos/engine/pos/imp/POSControllerImp.java
+
+###### 2 罗瑶光小高峰计算过滤排序算法第4代 实例论证：
+###### https://gitee.com/DetaChina/DataSwap/blob/dceeb0b06f726d640553964058d85b736354ac89/src/org/deta/tinos/array/LYG4DWithDoubleQuickSort4D.java
+
+###### 3 罗瑶光欧拉森林商旅环微分TSP算法第2代 实例论证： 
+###### https://gitee.com/DetaChina/Data_Prediction/blob/master/src/org/tinos/deta/tsp/YaoguangLuoEulerRingTSP2D.java
+
+###### 4 罗瑶光 象契字符串条件微分排序算法第7代 实例论证：
+###### https://gitee.com/DetaChina/DataSwap/blob/master/src/org/deta/tinos/string/LYG4DWithChineseMixStringSort7D.java
+
 ##### (STUDY)Deta Socket PLSQL Database(https://gitee.com/DetaChina/Deta_PLSQL_DB), cn 2019R11L885247 软著登字第4317518号
 ##### (2019-4-20:6:26)VPCS微分催化矩阵与类人肽链转化的最小情感因子元Initon首次定义: https://github.com/yaoguangluo/Deta_Catalytic_DNA/issues/2
 ##### (2019-4-16:1:08)VPCS微分催化矩阵与类人肽链转化的情感因子元 Initon首次使用: https://github.com/yaoguangluo/Deta_Catalytic_DNA/commit/25ec48387b0b2c7aa514e72c417ef8843c4e1183
