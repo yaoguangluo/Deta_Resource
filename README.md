@@ -21,6 +21,12 @@
 ###### TMZC4012676535
 ###### TMZC40126765ZCSL01
 ###### cn TMZC00000039183063ZCSQ01
+###### 国作登字 2019-F-00943469
+###### 国作登字 2019-F-00943471
+###### 国作登字 2019-F-00943472
+###### 国作登字 2019-F-00943473
+###### 国作登字 2019-F-00943474
+###### 国作登字 2019-F-00943475
 ##### (SAFE)德塔数据刑侦项目(闭源)2019-05-03.
 ##### (CREATIVE) Deta catalytic DNA compute (https://github.com/yaoguangluo/Deta_Catalytic_DNA). 
 ##### (HELP) 德塔读心术(https://github.com/yaoguangluo/Deta_Parser), 软著登字第3951366号
