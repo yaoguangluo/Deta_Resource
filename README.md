@@ -73,6 +73,9 @@ https://github.com/yaoguangluo/Deta_Parser/commit/1feb189c74a507617cbdcb5be2d48a
 ##### (2018-9-23)论证算法项目德塔分词开始时间. 当前象形纯中文分词速度每秒2300万字,已持续5个月世界公认第一.https://github.com/yaoguangluo/Deta_Parser/graphs/commit-activity ) .
 
 ### 原理组成论文: 
+##### (2020年 10月4日~11日)<最终见 类人DNA与 神经元基于催化算子映射编码方式 V_1.2.2版本 国家软著申请 流水号 2020Z11L0333706>
+https://github.com/yaoguangluo/Deta_Resource/blob/master/DNA%20%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F1.2.2%20%E4%B8%AD%E8%AF%91%E8%8B%B1%E6%B7%B7%E5%90%88%E7%89%88.pdf
+##### (2019年 9月) Quick Catalytic Search& Sort https://github.com/yaoguangluo/Deta_Resource/blob/master/Theory%20on%20Yaoguang's%20Split%20Peak%20Defect%201.020190908%20FIX.pdf
 ##### (2019年-2月-25日)AOPM https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/AOPM%20System%20On%20VPCS.pdf 
 ##### (2019年1月29日 ~ 2019年-2月-13日)VPCS https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/VPCS-Method_V1.1.pdf
 ##### (2013-10-17 17:33 )软件语言进化思想最新研究成果: (The Darwin's Theory of The Artificial Intelligence) 阅读(108) https://313699483.qzone.qq.com/
