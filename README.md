@@ -4,6 +4,10 @@
 ## 德塔开源作者名单表 : https://github.com/yaoguangluo/Deta_OSS_List
 ## 类人数据生命的DNA计算思想 作为一个 罗瑶光先生的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
 ### 原理沉淀过程:
+ 20201025 19:47 AM D8+
+##### (2020-10-25 19:47 AM D8+) 罗瑶光先生首次 完整破译  DNA INITONS 肽展变换定理公式 (https://github.com/yaoguangluo/Deta_Resource/blob/master/PDE_LAW.txt)
+##### (2020-10-4) 罗瑶光先生首次 完整演化  DNA INITONS 编码规范软著1.2.2 中国软著申请 流水号 2020Z11L0333706
+(https://github.com/yaoguangluo/Deta_Resource/blob/master/DNA%20%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F1.2.2%20%E4%B8%AD%E8%AF%91%E8%8B%B1%E6%B7%B7%E5%90%88%E7%89%88.pdf)
 ##### (2019-5-1:8:15) 罗瑶光先生首次 将6元 PDN 的 mask 对应的vpcs催化initons 取自于
 ##### (STUDY)个人软著 快速数据预测算法引擎系统 V1.0.0 软著登字第 5447819 号
 ##### (STUDY)deta ETL-UNICORN(https://github.com/yaoguangluo/ETL_Unicorn), 软著登字第4240558号
