@@ -3,7 +3,7 @@
 ![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/DETA%2020190505.jpg) 
 
 ## Deta 软件开发有限公司 软件开源项目计划落实情况 2019~2020, 女娲计划开始 2020~
-![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/nuwa2020.jpg) 
+![实例](https://github.com/yaoguangluo/AOPM_VPCS_Theroy/blob/master/nuwa2020.bmp) 
 
 ### 随着Apache等国际开源证书的衍生版越来越多， 德塔作者在这里官方和个人双重申明：带个人著作权的德塔非闭源作品，坚定不移的永久免费开放，只要在借鉴代码和思想处 进行标注 ：采用或使用或refer “罗瑶光" 关键字即可。  2019061512：15 / 20190927改
 ### 德塔开源作者名单表 : https://github.com/yaoguangluo/Deta_OSS_List
