@@ -135,24 +135,30 @@ P= E + C
 M= C + S
 
 SO : 
-I 增加 !->  D   ~->  I  !->    D  ~->  I
-D 减少 !->  Q   ~-> DD  !->   II  ~->  I + U = E (肽增)
-U 改变 !->  I   ~->  U  !->    I  ~->  U 
-Q 查找 !->  D   ~->  I  !->    U  ~->  Q
+I 增加 !->  D   ~->  I    !->    D  ~->  I
+D 减少 !->  I   ~->  U    !->    Q  ~->  DD  (肽增)
+U 改变 !->  I   ~->  U    !->    I  ~->  U 
+Q 查找 !->  U   ~->  Q    !->    U  ~->  Q
 
 THEN WE FIND?
 PDE SWAP NEW LAW
-D =  E
+D =  DD
+ 
+V 感知->U + Q  !-> QU ~-> QQ  !-> UU  ~-> UQ   = V
+E 执行->I + U  !-> DQ ~-> DDD !-> III ~-> IIU  = I + E (肽增)
+C 控制->I + D  !-> DI ~-> DU  !-> IQ  ~-> UDD  = U + D (肽展) = U + D + D (肽增)
+THEN WE FIND
+U = E
+I = U
 
-V 感知->U + Q !-> QU ~-> QQ !-> UU ~-> UQ  = V
-E 执行->I + U !-> DQ ~-> ID !-> DI ~-> DU  = D + U (肽展) = E + U(肽增)
-C 控制->I + D !-> DI ~-> DU !-> IQ ~-> IDD = C + D (肽增) = C + E (肽增)
 
-S 静态->I + Q !->  DU ~-> DQ !->  IU ~->  IQ  = S
-S 静态->I     !->  D  ~-> I  !->  D  ~->  I  ~= S (OLD)(肽减)
-S 静态->Q     !->  U  ~-> Q  !->  U  ~->  Q  ~= S (OLD)(肽减)
+THEN 1 
+A= V + S = U + Q + I + Q = UQIQ !-> QUDU ~-> QUDQ !-> UQIU ~-> UQIQ  = A
+O= E + S = I + U + I + Q = IUIQ !-> DQDU ~-> DQDQ !-> IUIU ~-> IUIQ  = O
+P= E + C = I + U + I + D = IUID !-> DQDI ~-> DQDU !-> IUIQ ~-> IUIDD = P + D (肽增)
+M= C + S = I + D + I + Q = IDIQ !-> DIDU ~-> DIDQ !-> IDIU ~-> IDIQ  = M
 
-THEN 
+THEN 2 
 A= V + S = U + Q + I + Q = UQI !-> QUD ~-> QUI !-> UQD ~-> UQI  = A
 O= E + S = I + U + I + Q = IUQ !-> DQU ~-> DQQ !-> IUU ~-> IUQ  = O
 P= E + C = I + U + I + D = IUD !-> DQI ~-> DQU !-> IUQ ~-> IUDD = P + D (肽增)
@@ -181,12 +187,15 @@ C = D (肽减)
 S = I (肽减)
 S = Q (肽减)
 
+
 PDE (肽增) LAW
-D = E (肽增)
-E = E + U (肽增)
+D = DD (肽增)
+U = E  (肽增)
+I = U  (肽增)
+E = I + E (肽增)
 P = P + D (肽增)
-C = C + D (肽增)
-C = C + E (肽增)
+C = U + D + D(肽增)
+
 
 PDE (肽展) LAW
 A = V + S (肽展)
