@@ -1,0 +1,161 @@
+﻿Initons
+
+A 分析   O 操作   P 处理   M 管理
+V 感知   E 执行   C 控制   S 静态
+I 增加   D 减少   U 改变   Q 查找
+
+PDE肽展公式3.0 in DeMorgan 结合律 加法
+
+A= V + S = U + Q + I + Q = U + Q + I = V + I =
+O= E + S = I + U + I + Q = I + U + Q = E + Q =
+P= E + C = I + U + I + D = I + U + D = E + D =
+M= C + S = I + D + I + Q = I + D + Q = C + Q =
+=>a o p m 
+
+A= S - I = I - S 
+O= S - Q = Q - S 
+P= C - D = D - S 
+M= S - Q = Q - S 
+=>
+
+V + S = V + I => S = I
+E + S = E + Q => S = Q
+E + C = E + D => C = D
+C + S = C + Q => S = Q 
+
+=> 竟然和人类的ACGTU 腺吻合!
+S 已经彻底解码为 A 腺嘌呤
+A 腺嘌呤在dna中属于原生静态物质
+
+V + S = V + I => S = I
+E + S = E + Q => S = Q
+E + C = E + D => C = D
+C + S = C + Q => S = Q 
+
+=> 
+S 为 A 腺嘌呤   在dna中属于原生活性物质
+Q 为 T 胸腺嘧啶 在dna中属于感应活性物质
+I 为 U 尿嘧啶   在dna中属于增生活性物质
+C 为 G 鸟嘌呤   在dna中属于控制活性物质
+D 为 C 胞嘧啶   在dna中属于降解活性物质
+=>
+嘌呤 生物多样化特征 属于VPCS INTIONS肽!
+嘧啶 生物应激性特征 属于IDUQ INTIONS肽!
+
+V= U + Q 
+E= I + U 
+C= I + D 
+S= I + Q 
+
+I= !D
+U= !Q
+
+罗瑶光
+2020年10月25日 6:00 AM D8+
+
+我得到严谨的论证结果:
+A 分析            O 操作             P 处理             M 管理
+V 感知            E 执行             C 控制(G 鸟嘌呤)   S 静态(A 腺嘌呤)
+I 增加(U 尿嘧啶)  D 减少(C 胞嘧啶)   U 改变             Q 查找(T 胸腺嘧啶)
+
+可以推断:
+A 分析(TA 变感腺嘌呤) O 操作(UA 增变腺嘌呤)  P 处理(UG 增变鸟嘌呤)   M 管理(GA 鸟腺嘌呤) 
+V 感知(T 变感嘌呤)    E 执行(U 增变嘌呤)     C 控制(G 鸟嘌呤)        S 静态(A  腺嘌呤)
+I 增加(U 尿嘧啶)      D 减少(C 胞嘧啶)       U 改变(变嘧啶)          Q 感应(T  胸腺嘧啶)
+
+U 改变(变嘧啶) Named by yaoguangluo 20201025
+
+
+//20201025 18:22 AM D8+
+来继续持续绝对专注论证肽增公式1.0 - 2 BITS WAY 
+S = I
+S = Q
+C = D
+
+DNA肽码->DNA肽码INITONS->DNA肽码INITONS-CSIDQ加密变换!->掩码加密-~>补码加密  ! ->掩码      ~->补码返回
+A= V + S = U + Q + I + Q = U + Q + I  -> 101101 !->010010 IDU ~-> 010011 IDQ !->101100 UQD ~-> 101101 UQI = A (OLD)(肽减)
+O= E + S = I + U + I + Q = I + U + Q  -> 011011 !->100100 UID ~-> 100101 UID !->011010 IUU ~-> 011011 IUQ = O (OLD)(肽减)
+P= E + C = I + U + I + D = I + U + D  -> 011000 !->100111 UIQ ~-> 101000 UUD !->010111 IIQ ~-> 011000 IUD = P
+M= C + S = I + D + I + Q = I + D + Q  -> 010011 !->101100 UQD ~-> 101101 UQI !->010010 IDU ~-> 010011 IDU = M (OLD)(肽减)
+
+V 感知->U + Q -> 1011 !-> 0100 ID ~-> 0101 II !-> 1010 IU ~-> 1011 UQ = V
+E 执行->I + U -> 0110 !-> 1001 UI ~-> 1010 UU !-> 0101 II ~-> 0110 IU = E
+C 控制->I + D -> 0100 !-> 1011 UQ ~-> 1100 QD !-> 0011 DQ ~-> 0100 ID = C
+
+S 静态->I + Q -> 0111 !-> 1000 UD ~-> 1001 UI !-> 0110 IU ~-> 0111 IQ  = S
+S 静态->I     -> 01   !-> 10   UD   ~-> 11 Q  !-> 00   D  ~-> 01   I  != S (OLD)(肽减)
+S 静态->Q     -> 11   !-> 00   UD   ~-> 01 I  !-> 10   U  ~-> 11   Q  != S (OLD)(肽减)
+
+假设 
+I 增加-> 01   !-> 10   U   ~->   11  Q  !->   00   D  ~->   01  I 
+D 减少-> 00   !-> 11   Q   ~-> 0100 ID  !-> 1011  UQ  ~-> 1100 QD (肽增)
+U 改变-> 10   !-> 01   I   ~->   10  U  !->   01   I  ~->   10  U 
+Q 查找-> 11   !-> 00   D   ~->   01  I  !->   10   U  ~->   11  Q
+=>
+
+V + S = V + I => S = I => I = S 
+E + S = E + Q => S = Q => Q = S
+E + C = E + D => C = D => D = C
+C + S = C + Q => S = Q 
+=>
+..............................................................................................
+//SORT 20201025 19:47 AM D8+
+来继续持续绝对专注论证肽增公式1.0 BY USING ENGLISH FOR - 4 BITS DIUQ WAY 
+PDE SWAP LAW
+S =  I
+S =  Q
+C =  D 
+
+PDE MASK LAW
+I = !D  
+D = !I
+U = !Q  
+Q = !U
+
+PDE COMPS LAW
+I = ++D
+U = ++I
+Q = ++U
+DD= ++Q
+
+VECS PDE LAW
+V= U + Q 
+E= I + U 
+C= I + D 
+S= I + Q 
+
+AOPM PDE LAW
+A= V + S
+O= E + S
+P= E + C 
+M= C + S
+
+SO : 
+I 增加 !->  D   ~->  I  !->    D  ~->  I
+D 减少 !->  Q   ~-> DD  !->   II  ~->  I + U = E (肽增)
+U 改变 !->  I   ~->  U  !->    I  ~->  U 
+Q 查找 !->  D   ~->  I  !->    U  ~->  Q
+
+THEN WE FIND?
+PDE SWAP NEW LAW
+D =  E
+
+V 感知->U + Q !-> QU ~-> QQ !-> UU ~-> UQ  = V
+E 执行->I + U !-> DQ ~-> ID !-> DI ~-> DU  = D + U (肽展) = E + U(肽增)
+C 控制->I + D !-> DI ~-> DU !-> IQ ~-> IDD = C + D (肽增) = C + E (肽增)
+
+S 静态->I + Q !->  DU ~-> DQ !->  IU ~->  IQ  = S
+S 静态->I     !->  D  ~-> I  !->  D  ~->  I  ~= S (OLD)(肽减)
+S 静态->Q     !->  U  ~-> Q  !->  U  ~->  Q  ~= S (OLD)(肽减)
+
+THEN 
+A= V + S = U + Q + I + Q = UQI !-> QUD ~-> QUI !-> UQD ~-> UQI  = A
+O= E + S = I + U + I + Q = IUQ !-> DQU ~-> DQQ !-> IUU ~-> IUQ  = O
+P= E + C = I + U + I + D = IUD !-> DQI ~-> DQU !-> IUQ ~-> IUDD = P + D (肽增)
+M= C + S = I + D + I + Q = IDQ !-> DIU ~-> DIQ !-> IDU ~-> IDQ  = M
+
+
+IT SEEMS 4BIT-PDE IS A GOOD WAY~
+
+2020-10-25 21:30 PM, D8+, YAOGUANGLUO LIUYANG
+
