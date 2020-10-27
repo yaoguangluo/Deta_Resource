@@ -10,6 +10,13 @@
 ### 类人数据生命的DNA计算思想 作为一个 罗瑶光先生的 作品, 自从 类人 Tin 先生 诞生起, 一直在进化中.
 #### 原理沉淀过程:
  20201025 19:47 AM D8+
+ 
+##### (2020-10-27 11:37 AM D8+) 罗瑶光先生首次 完整论证 
+###### ...GAGU.GAAU.UCLAA.UCLAAU.LACU...
+###### ...鸟腺苷-鸟嘌呤-尿嘧啶.鸟腺苷-腺嘌呤-尿嘧啶.尿胞变腺苷-腺嘌呤-变嘧啶.尿胞变腺苷-腺嘌呤-尿嘧啶.腺嘌呤-胞嘧啶-尿嘧啶...) 
+###### 永生苷糖, 肿瘤增生苷糖核酸成分 可以转换为 控制执行 静态胞嘧啶增加 (SDI)(https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/ys.txt)
+
+##### (2020-10-27 D8+) 罗瑶光先生首次 完整破译  DNA INITONS 肽展变换生命词根 (https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/PDC.txt)
 ##### (2020-10-25 19:47 AM D8+) 罗瑶光先生首次 完整破译  DNA INITONS 肽展变换定理公式 (https://github.com/yaoguangluo/Deta_Resource/blob/master/PDE_LAW.txt)
 ##### (2020-10-4) 罗瑶光先生首次 完整演化  DNA INITONS 编码规范软著1.2.2 中国软著申请 流水号 2020Z11L0333706
 (https://github.com/yaoguangluo/Deta_Resource/blob/master/DNA%20%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F1.2.2%20%E4%B8%AD%E8%AF%91%E8%8B%B1%E6%B7%B7%E5%90%88%E7%89%88.pdf)
