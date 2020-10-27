@@ -23,8 +23,9 @@
 ###### ...GAGU.GAAU.UCLAA.UCLAAU.LACU...
 ###### ...鸟腺苷-鸟嘌呤-尿嘧啶.鸟腺苷-腺嘌呤-尿嘧啶.尿胞变腺苷-腺嘌呤-变嘧啶.尿胞变腺苷-腺嘌呤-尿嘧啶.腺嘌呤-胞嘧啶-尿嘧啶...) 
 ###### 永生苷糖, 肿瘤增生苷糖核酸成分 可以转换为 控制执行 静态胞嘧啶增加 (SDI)(https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/ys.txt)
-
+###### https://github.com/yaoguangluo/Deta_Resource/blob/master/YSGT.txt
 ##### (2020-10-27 D8+) 罗瑶光先生首次 完整破译  DNA INITONS 肽展变换生命词根 (https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/PDC.txt)
+###### https://github.com/yaoguangluo/Deta_Resource/blob/master/PDE_PDW.txt
 ##### (2020-10-25 19:47 AM D8+) 罗瑶光先生首次 完整破译  DNA INITONS 肽展变换定理公式 (https://github.com/yaoguangluo/Deta_Resource/blob/master/PDE_LAW.txt)
 ##### 德塔 '类人 DNA与神经元基于催化算子 映射编码 方式 1.2.2 著作+' 对应 的 英文精简介绍 会议论文 1.0.0版, 11页, 投稿编号EI ACM, A2050-ICITEE2020
 ##### (2020-10-4) 罗瑶光先生首次 完整演化  DNA INITONS 编码规范软著1.2.2 中国软著申请 流水号 2020Z11L0333706
