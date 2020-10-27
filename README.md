@@ -16,7 +16,8 @@
 ###### ...鸟腺苷-腺嘌呤-尿嘧啶.尿胞变腺苷-鸟嘌呤-变嘧啶.尿胞变腺苷-鸟嘌呤-尿嘧啶.尿胞变鸟苷-鸟嘌呤-变嘧啶.尿胞变鸟苷-鸟嘌呤-尿嘧啶...
 ###### 生成人体饮食难以形成的染色体 同元基 IEI  IPI 物质 做用就是dna 执行钥匙
 ###### 生成人体饮食难以形成的染色体 连元基 CDD IEE 等物质 做用就是dna钥匙执行的中间 补码 供给 如DD = ++Q 
-(https://github.com/yaoguangluo/Deta_Resource/blob/master/Deta_OSS%20v11.3.1.pdf)第34页
+###### (https://github.com/yaoguangluo/Deta_Resource/blob/master/Deta_OSS%20v11.3.1.pdf)
+###### 第34页
  
 ##### (2020-10-27 11:37 AM D8+) 罗瑶光先生首次 完整论证 
 ###### ...GAGU.GAAU.UCLAA.UCLAAU.LACU...
