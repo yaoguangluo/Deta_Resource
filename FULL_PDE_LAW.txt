@@ -1,0 +1,135 @@
+﻿FIGURE 8
+=>
+...........................................................................................
+//SORT 20201025 19:47 AM D8+
+来继续持续绝对专注论证肽增公式1.0 BY USING ENGLISH FOR - 4 BITS DIUQ WAY 
+PDE SWAP LAW
+S =  I
+S =  Q
+C =  D 
+
+PDE MASK LAW
+I = !D  
+D = !I
+U = !Q  
+Q = !U
+
+PDE COMPS LAW
+I = ++D
+U = ++I
+Q = ++U
+DD= ++Q
+
+VECS PDE LAW
+V= U + Q 
+E= I + U 
+C= I + D 
+S= I + Q 
+
+AOPM PDE LAW
+A= V + S
+O= E + S
+P= E + C 
+M= C + S
+
+SO : 
+I 增加 !->  D   ~->  I    !->    D  ~->  I
+D 减少 !->  I   ~->  U    !->    Q  ~->  DD  (肽增)
+U 改变 !->  I   ~->  U    !->    I  ~->  U 
+Q 查找 !->  U   ~->  Q    !->    U  ~->  Q
+
+THEN WE FIND?
+PDE SWAP NEW LAW
+D =  DD
+ 
+V 感知->U + Q  !-> QU ~-> QQ  !-> UU  ~-> UQ   = V
+E 执行->I + U  !-> DQ ~-> DDD !-> III ~-> IIU  = I + E (肽增)
+C 控制->I + D  !-> DI ~-> DU  !-> IQ  ~-> UDD  = U + D (肽展) = U + D + D (肽增)
+THEN WE FIND
+U = E
+I = U
+
+
+THEN 1 
+A= V + S = U + Q + I + Q = UQIQ !-> QUDU ~-> QUDQ !-> UQIU ~-> UQIQ  = A
+O= E + S = I + U + I + Q = IUIQ !-> DQDU ~-> DQDQ !-> IUIU ~-> IUIQ  = O
+P= E + C = I + U + I + D = IUID !-> DQDI ~-> DQDU !-> IUIQ ~-> IUIDD = P + D (肽增)
+M= C + S = I + D + I + Q = IDIQ !-> DIDU ~-> DIDQ !-> IDIU ~-> IDIQ  = M
+
+THEN 2 
+A= V + S = U + Q + I + Q = UQI !-> QUD ~-> QUI !-> UQD ~-> UQI  = A
+O= E + S = I + U + I + Q = IUQ !-> DQU ~-> DQQ !-> IUU ~-> IUQ  = O
+P= E + C = I + U + I + D = IUD !-> DQI ~-> DQU !-> IUQ ~-> IUDD = P + D (肽增)
+M= C + S = I + D + I + Q = IDQ !-> DIU ~-> DIQ !-> IDU ~-> IDQ  = M
+
+
+IT SEEMS 4BIT-PDE IS A GOOD WAY~
+
+FIGURE 9
+ABOVE ALL, WE FIND PDE LAW LIST AS BELOW:
+
+PDE MASK LAW
+I = D! 
+D = I!
+U = Q!
+Q = U!
+
+PDE COMP'S LAW
+DD = ++Q
+I  = ++D
+U  = ++I
+Q  = ++U
+
+PDE (肽减) LAW
+C = D (肽减)
+S = I (肽减)
+S = Q (肽减)
+
+
+PDE (肽增) LAW
+D = DD (肽增)
+U = E  (肽增)
+I = U  (肽增)
+E = I + E (肽增)
+P = P + D (肽增)
+C = U + D + D(肽增)
+
+
+PDE (肽展) LAW
+A = V + S (肽展)
+A = U + Q + I (肽展)
+O = E + S (肽展)
+O = I + U + Q (肽展)
+P = E + C (肽展)
+P = I + U + D (肽展)
+M = C + S (肽展)
+M = I + D + Q (肽展)
+V = U + Q (肽展)
+E = I + U (肽展)
+E = D + U (肽展) 
+C = I + D (肽展)
+S = I + Q (肽展)
+
+FLASH A NEW NAME 可以推断:
+A 分析(LTA 变胸腺腺苷)  O 操作(UCLA 尿胞变腺苷)  P 处理(UCLG 尿胞变鸟苷)  M 管理(GA 鸟腺苷) 
+V 感知(LT 变胸腺嘌呤)   E 执行(UCL 尿胞变嘌呤)   C 控制(G 鸟嘌呤)         S 静态(A  腺嘌呤)
+I 增加(U  尿嘧啶)       D 减少(C 胞嘧啶)         U 改变(L 变嘧啶)         Q 感应(T  胸腺嘧啶)
+
+U 改变(L 变嘧啶)定义为 L the first char of luo YG and liang BY, Named by yaoguangluo 20201025 
+
+
+
+END
+2020-10-25 21:30 PM, D8+, YAOGUANGLUO LIUYANG
+
+
+今天发现 A = U + Q + I (肽展)与 O = I + U + Q (肽展) 出现逆对称 引起了我的注意
+
+于是 现在 我们增加4BIT LAW演化如下
+
+A = U + Q + I + Q 
+O = I + U + I + Q 
+P = I + U + I + D 
+M = I + D + I + Q 
+
+
