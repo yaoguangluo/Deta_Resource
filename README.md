@@ -11,6 +11,11 @@
 #### 原理沉淀过程:
  20201025 19:47 AM D8+
  
+###### (2020-10-29 04:19 AM D8+) 罗瑶光先生通过剔除新冠苷的IED.IPD 链接永生苷得到  <大同连元基鸟胸腺苷肽丝碱 1.1> 永生活性钥匙族 组合 并开始应用于养疗经TVM肽丝计算见DETA OSS 11.3.2
+######  https://github.com/yaoguangluo/Deta_Resource/blob/master/ysg.txt
+###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/ysg.txt
+
+
 ##### (2020-10-27 11:37 AM D8+) 罗瑶光先生首次 完整论证 
 ###### ...GAAU.UCLAGL.UCLAGU.UCLGGL.UCLGGU...一种核酸抑制新冠苷糖
 ###### ...鸟腺苷-腺嘌呤-尿嘧啶.尿胞变腺苷-鸟嘌呤-变嘧啶.尿胞变腺苷-鸟嘌呤-尿嘧啶.尿胞变鸟苷-鸟嘌呤-变嘧啶.尿胞变鸟苷-鸟嘌呤-尿嘧啶...
