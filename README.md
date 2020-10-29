@@ -15,6 +15,7 @@
 ######  https://github.com/yaoguangluo/Deta_Resource/blob/master/ysg.txt
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/ysg.txt
 
+##### 全球首发 AOPM VECS IDUQ 肽展催化公式推导集备份 中华人民共和国国家个人著作权申请文章中文版 https://github.com/yaoguangluo/Deta_Resource/blob/master/CN_DT_pdn_computing1_2_2.pdf
 
 ##### (2020-10-27 11:37 AM D8+) 罗瑶光先生首次 完整论证 
 ###### ...GAAU.UCLAGL.UCLAGU.UCLGGL.UCLGGU...一种核酸抑制新冠苷糖
