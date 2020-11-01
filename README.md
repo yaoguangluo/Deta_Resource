@@ -15,7 +15,7 @@
 ######  https://github.com/yaoguangluo/Deta_Resource/blob/master/ysg.txt
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/ysg.txt
 ###### (2020-11-1 大同连元基鸟胸腺苷肽丝碱 2.0)https://gitee.com/DetaChina/Deta_Resource/blob/master/ysg2.0.txt
-
+###### https://github.com/yaoguangluo/Deta_Resource/blob/master/ysg2.0.txt
 ##### 全球首发 AOPM VECS IDUQ 肽展催化公式推导集备份 中华人民共和国国家个人著作权申请文章中文版１．２．２ https://github.com/yaoguangluo/Deta_Resource/blob/master/CN_DT_pdn_computing1_2_2.pdf
 ##### 全球首发 AOPM VECS IDUQ 肽展催化公式推导集备份 中华人民共和国国家个人著作权申请文章中文版 修正版　最后的第１０页　新冠苷　s=q的 5行结果，并再次　验证　１．２．２　版本的　国家个人著作权申请文章的　肽展公式是正确的．
 https://github.com/yaoguangluo/Deta_Resource/blob/master/CN_DT_pdn_computing1_2_2%20%E4%BB%85%E4%BB%85%20FIX%20%E7%AC%AC12%E9%A1%B5%20S%3DQ%20%E6%96%B0%E5%86%A0%E5%A4%84%E6%B6%89%E7%9A%84%E5%87%A0%E8%A1%8C%20.pdf
