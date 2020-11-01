@@ -15,8 +15,8 @@
 ######  https://github.com/yaoguangluo/Deta_Resource/blob/master/ysg.txt
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/ysg.txt
 
-##### 全球首发 AOPM VECS IDUQ 肽展催化公式推导集备份 中华人民共和国国家个人著作权申请文章中文版 https://github.com/yaoguangluo/Deta_Resource/blob/master/CN_DT_pdn_computing1_2_2.pdf
-##### 全球首发 AOPM VECS IDUQ 肽展催化公式推导集备份 中华人民共和国国家个人著作权申请文章中文版 修正第１０页　新冠苷　s=q 5行结果，并再次　验证　1_2_2版本　国家个人著作权申请文章的　肽展公式是正确的．
+##### 全球首发 AOPM VECS IDUQ 肽展催化公式推导集备份 中华人民共和国国家个人著作权申请文章中文版１．２．２ https://github.com/yaoguangluo/Deta_Resource/blob/master/CN_DT_pdn_computing1_2_2.pdf
+##### 全球首发 AOPM VECS IDUQ 肽展催化公式推导集备份 中华人民共和国国家个人著作权申请文章中文版 修正版　最后的第１０页　新冠苷　s=q的 5行结果，并再次　验证　１．２．２　版本的　国家个人著作权申请文章的　肽展公式是正确的．
 https://github.com/yaoguangluo/Deta_Resource/blob/master/CN_DT_pdn_computing1_2_2%20%E4%BB%85%E4%BB%85%20FIX%20%E7%AC%AC12%E9%A1%B5%20S%3DQ%20%E6%96%B0%E5%86%A0%E5%A4%84%E6%B6%89%E7%9A%84%E5%87%A0%E8%A1%8C%20.pdf
 ##### (2020-10-27 11:37 AM D8+) 罗瑶光先生首次 完整论证 
 ###### ...GAAU.UCLAGL.UCLAGU.UCLGGL.UCLGGU...一种核酸抑制新冠苷糖
