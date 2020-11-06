@@ -11,6 +11,12 @@
 #### 原理沉淀过程:
  20201025 19:47 AM D8+
  
+###### (2020-11-07 05:41 AM D8+) 罗瑶光先生 人类史第一次推导出 变嘧啶 
+###### L-Pyrimidine  https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/lpyrimidine1.jpg
+###### L-Pyrimidine https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/lpyrimidine2.jpg
+###### https://github.com/yaoguangluo/Deta_Catalytic_DNA/blob/master/lpyrimidine1.jpg
+###### https://github.com/yaoguangluo/Deta_Catalytic_DNA/blob/master/lpyrimidine2.jpg
+
 ###### (2020-10-29 04:19 AM D8+) 罗瑶光先生通过剔除新冠苷的IED.IPD 链接永生苷得到  <大同连元基鸟胸腺苷肽丝碱 1.1> 永生活性钥匙族 组合 并开始应用于养疗经TVM肽丝计算见DETA OSS 11.3.2
 ######  https://github.com/yaoguangluo/Deta_Resource/blob/master/ysg.txt
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/ysg.txt
