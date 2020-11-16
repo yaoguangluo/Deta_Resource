@@ -26,7 +26,7 @@ https://github.com/yaoguangluo/Deta_Resource/blob/master/L-pyrimidine%201.2.3%20
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/ysg.txt
 ###### (2020-11-1 大同连元基鸟胸腺苷肽丝碱 2.0)https://gitee.com/DetaChina/Deta_Resource/blob/master/ysg2.0.txt
 ###### https://github.com/yaoguangluo/Deta_Resource/blob/master/ysg2.0.txt
-###### 发布受到干扰, 将GIT RESOURCE/GITEE 论文集 双时间戳 归纳出完整中英混合版本 11月1 已经110报警立案, 11月3 知委流水号下来了<2020Z11L0356797> 更进中 
+##### 发布受到干扰, 将GIT RESOURCE/GITEE 论文集 双时间戳 归纳出完整中英混合版本 11月1 已经110报警立案, 11月3 知委流水号下来了<2020Z11L0356797> 更进中 
 ###### https://github.com/yaoguangluo/Deta_Resource/blob/master/%E8%91%97%E4%BD%9C%E6%9D%83%E7%89%88%E6%9C%ACPDE_Formular_1_2_2.pdf
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/%E8%91%97%E4%BD%9C%E6%9D%83%E7%89%88%E6%9C%ACPDE_Formular_1_2_2.pdf
 ##### 全球首发 AOPM VECS IDUQ 肽展催化公式推导集备份 中华人民共和国国家个人著作权申请文章中文版１．２．２ https://github.com/yaoguangluo/Deta_Resource/blob/master/CN_DT_pdn_computing1_2_2.pdf
