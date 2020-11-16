@@ -11,6 +11,10 @@
 #### 原理沉淀过程:
  20201025 19:47 AM D8+
  
+ 
+###### (2020-11-11) 罗瑶光先生首次论证变嘧啶分子形态, 与确立 甲基胞嘧啶 在DNA计算中首次具体定义执行IDUQ-U initon的 改元基 功能 
+https://github.com/yaoguangluo/Deta_Resource/blob/master/L-pyrimidine%201.2.3%20English%E5%8F%98%E5%98%A7%E5%95%B6%E5%88%86%E5%AD%90%E5%BC%8F%E6%8E%A8%E5%AF%BC.pdf
+ 
 ###### (2020-11-07 05:41 AM D8+) 罗瑶光先生 人类史第一次推导出 变嘧啶 
 ###### L-Pyrimidine  https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/lpyrimidine1.jpg
 ###### L-Pyrimidine https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/lpyrimidine2.jpg
